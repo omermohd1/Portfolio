@@ -328,7 +328,7 @@
   
   @media screen and (max-width: 968px) {
     .hero__img {
-      width: 280px;
+      width: 580px;
       justify-self: center;
     }
   }
